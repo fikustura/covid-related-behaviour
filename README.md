@@ -6,4 +6,4 @@ Ukoliko GitHub radi problem oko otvaranja _.ipynb_ datoteke, **konačan produkt 
 
 Problematičnu ćeliju sam označio i uz nju se također nalazi upozorenje.
 
-Istraživanje je nastalo u sklopu izbornog kolegija Matematički softver, a vrijeme nastanka je travanj 2022.
+Esej je nastao u sklopu izbornog kolegija Matematički softver, a vrijeme nastanka je travanj 2022.
