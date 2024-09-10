@@ -1,4 +1,4 @@
-# COVID-19 Attitudes and Behaviors Analysis
+# COVID-19 Attitudes & Behaviors Analysis
 
 This university project results in an interactive Jupyter Notebook file (`.ipynb`) that can be opened in an appropriate environment. While it can also be accessed on GitHub, please note that the interactive features will not be available in that format. However, the final display remains identical.
 
