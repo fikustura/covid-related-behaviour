@@ -1,7 +1,20 @@
-Rezultat ovog eseja je _.ipynb_ - Jupyter Notebook datoteka koju je moguće otvoriti u odgovarajućem okruženju i ona je u tom okruženju interaktivna. **Po potrebi ju je moguće otvoriti i unutar GitHuba, no u tom slučaju nije interaktivna, ali krajnji prikaz je _identičan_**. Prisutan je detaljno komentiran postupak **_korak-po-korak_** u kojem **dohvaćam, čistim i vizualiziram podatke**.
+# COVID-19 Attitudes and Behaviors Analysis
 
-**_Upozorenje_**: s obzirom na veliku količinu podataka, u _.ipynb_ datoteci postoji ćelija čije izvršavanje traje i po nekoliko minuta. Potrebno je imati na umu vrijeme čekanja ukoliko se restarta _kernel_. Ako se za to odlučite, uz bilježnicu prilažem i tri _.csv_ datoteke (unutar _data.rar_) koje služe kao izvor podataka jer se podaci u bilježnici dohvaćaju lokalno. Kako bi dohvaćanje podataka iz tih datoteka bilo moguće, datoteke je dovoljno imati u istom direktoriju u kojem se nalazi i bilježnica.
+This university project results in an interactive Jupyter Notebook file (`.ipynb`) that can be opened in an appropriate environment. While it can also be accessed on GitHub, please note that the interactive features will not be available in that format. However, the final display remains identical.
 
-Problematičnu ćeliju sam označio i uz nju se također nalazi upozorenje.
+## Project Overview
 
-Esej je nastao u sklopu izbornog kolegija Matematički softver, a vrijeme nastanka je travanj 2022.
+The notebook provides a detailed, step-by-step process for retrieving, cleaning, and visualizing data related to COVID-19 attitudes and behaviors across three distinct countries — Canada, Denmark, and Japan — each representing a different continent. The process is presented in Croatian.
+
+## Course Information
+
+This project was developed as part of the graduate elective course **_Mathematical Software_** in April 2022.
+
+## Additional Resources
+
+- For more information about the research, please visit the [Imperial College London's website](https://www.imperial.ac.uk/centre-for-health-policy/our-work/our-response-to-covid-19/covid-19-behaviour-tracker/).
+- Explore the data source at the [YouGov covid-19-tracker repository](https://github.com/YouGov-Data/covid-19-tracker), which includes responses (numerical and non-numerical) along with questions and clarifications.
+
+## Future Work
+
+Potential extensions of this project could include expanding to additional countries, or implementing machine learning techniques to predict attitudes based on demographic factors.
