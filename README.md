@@ -12,8 +12,8 @@ This project was developed as part of the graduate elective course **_Mathematic
 
 ## Additional Resources
 
-- For more information about the research, please visit the  [Imperial College London's website](https://www.imperial.ac.uk/centre-for-health-policy/our-work/our-response-to-covid-19/covid-19-behaviour-tracker/).
-- Explore the data source at the  [YouGov covid-19-tracker repository](https://github.com/YouGov-Data/covid-19-tracker), which includes responses (numerical and non-numerical) along with questions and clarifications.
+- For more information about the survey, please visit the  [Imperial College London's website](https://www.imperial.ac.uk/centre-for-health-policy/our-work/our-response-to-covid-19/covid-19-behaviour-tracker/).
+- Explore the data source at the  [YouGov covid-19-tracker repository](https://github.com/YouGov-Data/covid-19-tracker), which includes both numerical and non-numerical responses of survey participants, along with the corresponding questions and clarifications.
 
 ## Future Work
 
