@@ -4,7 +4,7 @@ This university project results in an interactive Jupyter Notebook file (`.ipynb
 
 ## Project Overview
 
-The notebook provides a detailed, step-by-step process for retrieving, cleaning, and visualizing data related to COVID-19 attitudes and behaviors across three distinct countries — Canada, Denmark, and Japan — each representing a different continent. The process is presented in Croatian.
+The notebook provides a detailed, step-by-step process for retrieving, cleaning and visualizing data related to COVID-19 attitudes and behaviors across three distinct countries — Canada, Denmark and Japan — each representing a different continent. The process is presented in Croatian.
 
 ## Course Information
 
@@ -17,4 +17,4 @@ This project was developed as part of the graduate elective course **_Mathematic
 
 ## Future Work
 
-Potential extensions of this project could include expanding to additional countries, or implementing machine learning techniques to predict attitudes based on demographic factors.
+Potential extensions of this project could include expanding to additional countries or implementing machine learning techniques to predict attitudes based on demographic factors.
